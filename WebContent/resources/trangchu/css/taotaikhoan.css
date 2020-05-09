@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+body {
+
+  padding-top: 70px;
+ 
+}
+.notice{
+	font-size:20px;
+	color:red;
+}
+.sus{
+	font-size:20px;
+	color:green;
+}
